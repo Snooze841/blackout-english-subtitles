@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 264
+PlayResY: 236
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,15,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.44,Default,,0,0,0,,They wanted you to give something back.
+Dialogue: 0,0:00:04.88,0:00:06.00,Default,,0,0,0,,They didn't say what it was.
+Dialogue: 0,0:00:06.70,0:00:08.26,Default,,0,0,0,,They said you knew what they meant.
+Dialogue: 0,0:00:09.70,0:00:13.46,Default,,0,0,0,,They locked me in a closet and left me there for hours.
+Dialogue: 0,0:00:14.26,0:00:17.06,Default,,0,0,0,,Before they left, they wanted me to tell them where it was.
+Dialogue: 0,0:00:17.58,0:00:18.84,Default,,0,0,0,,And I had no idea.
+Dialogue: 0,0:00:19.92,0:00:22.74,Default,,0,0,0,,You have to give them what they want, or they'll come back.
+Dialogue: 0,0:00:23.20,0:00:24.52,Default,,0,0,0,,And they're professionals.
+Dialogue: 0,0:00:25.32,0:00:26.88,Default,,0,0,0,,What is it you're mixed up in?
+Dialogue: 0,0:00:27.68,0:00:29.24,Default,,0,0,0,,No, don't tell me anything.
+Dialogue: 0,0:00:30.00,0:00:31.92,Default,,0,0,0,,Just take care of yourself, promise me that.

@@ -1,0 +1,21 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 320
+PlayResY: 300
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.12,Default,,0,0,0,,Bob, wait.
+Dialogue: 0,0:00:02.90,0:00:05.94,Default,,0,0,0,,Bob, I'm not out to cheat anyone.
+Dialogue: 0,0:00:06.96,0:00:09.18,Default,,0,0,0,,I don't know where that head has gone.
+Dialogue: 0,0:00:09.92,0:00:11.82,Default,,0,0,0,,There are gaps in time.
+Dialogue: 0,0:00:12.42,0:00:14.64,Default,,0,0,0,,Moments when I don't remember what I'm doing.
+Dialogue: 0,0:00:15.54,0:00:18.00,Default,,0,0,0,,But I swear I'm not trying to cheat anyone.
+Dialogue: 0,0:00:19.14,0:00:21.38,Default,,0,0,0,,Give me the chance to find that head.
+Dialogue: 0,0:00:21.98,0:00:25.02,Default,,0,0,0,,I promise to do all I can to track it down.

@@ -1,0 +1,26 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 216
+PlayResY: 240
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,12,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.22,Default,,0,0,0,,Listen now.
+Dialogue: 0,0:00:02.22,0:00:06.10,Default,,0,0,0,,I think it's time you made a real decision.
+Dialogue: 0,0:00:06.10,0:00:08.60,Default,,0,0,0,,Yes, I've left my husband.
+Dialogue: 0,0:00:08.60,0:00:11.00,Default,,0,0,0,,But I'd probably have done it even if I hadn't met you.
+Dialogue: 0,0:00:11.00,0:00:13.28,Default,,0,0,0,,But you're the one who made me take the step.
+Dialogue: 0,0:00:13.28,0:00:15.58,Default,,0,0,0,,Now I want to push you.
+Dialogue: 0,0:00:15.58,0:00:19.18,Default,,0,0,0,,And I want you to choose me.
+Dialogue: 0,0:00:19.18,0:00:22.40,Default,,0,0,0,,Choose to be yourself.
+Dialogue: 0,0:00:22.40,0:00:24.08,Default,,0,0,0,,Choose to take the leap.
+Dialogue: 0,0:00:24.08,0:00:27.46,Default,,0,0,0,,Choose to be mine, fully and completely.
+Dialogue: 0,0:00:27.46,0:00:29.46,Default,,0,0,0,,Let's leave together.
+Dialogue: 0,0:00:30.00,0:00:32.68,Default,,0,0,0,,Now I'm going down to get the car.
+Dialogue: 0,0:00:32.68,0:00:36.78,Default,,0,0,0,,I hope you've decided when I come back.

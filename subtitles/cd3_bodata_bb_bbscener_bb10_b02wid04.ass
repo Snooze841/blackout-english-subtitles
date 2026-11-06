@@ -1,0 +1,17 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 224
+PlayResY: 236
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.68,Default,,0,0,0,,You should know it's pointless to cross my plans.
+Dialogue: 0,0:00:05.22,0:00:08.24,Default,,0,0,0,,Many others would have been removed long ago.
+Dialogue: 0,0:00:10.42,0:00:14.40,Default,,0,0,0,,You could say I have a sentimental streak when it comes to you.
+Dialogue: 0,0:00:16.90,0:00:21.30,Default,,0,0,0,,But there's a time to kill and a time to make deals.

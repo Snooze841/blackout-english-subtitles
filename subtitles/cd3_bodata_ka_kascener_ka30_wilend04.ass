@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 296
+PlayResY: 248
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.86,Default,,0,0,0,,I've been offered a job down south.
+Dialogue: 0,0:00:04.86,0:00:06.38,Default,,0,0,0,,I'd love for you to come with me.
+Dialogue: 0,0:00:06.38,0:00:09.66,Default,,0,0,0,,I know I shouldn't ask.
+Dialogue: 0,0:00:09.66,0:00:12.18,Default,,0,0,0,,I know it'll probably be hard living with you.
+Dialogue: 0,0:00:12.18,0:00:14.50,Default,,0,0,0,,But I love you.
+Dialogue: 0,0:00:14.50,0:00:17.50,Default,,0,0,0,,Come on, let's go.

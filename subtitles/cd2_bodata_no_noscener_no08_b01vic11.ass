@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 280
+PlayResY: 296
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,16,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.75,0:00:03.99,Default,,0,0,0,,I felt...
+Dialogue: 0,0:00:03.99,0:00:05.31,Default,,0,0,0,,How can I explain it?
+Dialogue: 0,0:00:05.41,0:00:10.35,Default,,0,0,0,,I work here every day and meet all kinds of men.
+Dialogue: 0,0:00:10.91,0:00:13.23,Default,,0,0,0,,I get fucked from the front and from behind.
+Dialogue: 0,0:00:13.41,0:00:16.51,Default,,0,0,0,,And if one of the other girls can't handle a guy, I take him.
+Dialogue: 0,0:00:17.81,0:00:19.57,Default,,0,0,0,,And it feels like it doesn't touch me.
+Dialogue: 0,0:00:20.63,0:00:21.63,Default,,0,0,0,,It's just a job.
+Dialogue: 0,0:00:24.01,0:00:27.47,Default,,0,0,0,,But when I see him sitting there with his sweet little girl,
+Dialogue: 0,0:00:27.47,0:00:31.89,Default,,0,0,0,,I suddenly remember what it was like.
+Dialogue: 0,0:00:34.13,0:00:36.45,Default,,0,0,0,,And I can't shake it off today.
+Dialogue: 0,0:00:38.29,0:00:43.79,Default,,0,0,0,,I'm so tired of whips and chains and the crude talk around here.

@@ -1,0 +1,27 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 248
+PlayResY: 288
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,14,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.95,Default,,0,0,0,,Years ago I had a big sister who
+Dialogue: 0,0:00:02.95,0:00:07.18,Default,,0,0,0,,worked in your parents' home before they died.
+Dialogue: 0,0:00:08.42,0:00:10.06,Default,,0,0,0,,She'd sometimes drag you home with her.
+Dialogue: 0,0:00:11.36,0:00:12.31,Default,,0,0,0,,We were the same age,
+Dialogue: 0,0:00:12.31,0:00:14.86,Default,,0,0,0,,and you were the first to see what I had under my skirt.
+Dialogue: 0,0:00:16.76,0:00:19.57,Default,,0,0,0,,But you were more in love with my big sister,
+Dialogue: 0,0:00:19.57,0:00:21.88,Default,,0,0,0,,though she was 14 and you only seven.
+Dialogue: 0,0:00:23.40,0:00:25.34,Default,,0,0,0,,I think you were madly in love.
+Dialogue: 0,0:00:25.84,0:00:29.72,Default,,0,0,0,,I remember you bringing her flowers on her 17th birthday.
+Dialogue: 0,0:00:30.00,0:00:32.28,Default,,0,0,0,,You were only ten.
+Dialogue: 0,0:00:33.70,0:00:35.49,Default,,0,0,0,,And in the years after, until she died,
+Dialogue: 0,0:00:35.49,0:00:37.42,Default,,0,0,0,,you'd come and ring the bell now and then.
+Dialogue: 0,0:00:38.84,0:00:40.30,Default,,0,0,0,,I think she babysat you a bit.
+Dialogue: 0,0:00:41.62,0:00:43.06,Default,,0,0,0,,But things were hard for you at home, too.

@@ -1,0 +1,21 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 300
+PlayResY: 300
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:08.26,Default,,0,0,0,,Through the crack in the door, I saw Dad take off his coat.
+Dialogue: 0,0:00:08.82,0:00:10.74,Default,,0,0,0,,He was drunk. He was swaying.
+Dialogue: 0,0:00:11.48,0:00:13.68,Default,,0,0,0,,He didn't hear me step up behind him.
+Dialogue: 0,0:00:14.52,0:00:16.36,Default,,0,0,0,,I hit him on the back of the head.
+Dialogue: 0,0:00:17.04,0:00:19.14,Default,,0,0,0,,He fell heavily against the wall.
+Dialogue: 0,0:00:21.12,0:00:22.66,Default,,0,0,0,,Surprised, he turned around.
+Dialogue: 0,0:00:23.36,0:00:24.62,Default,,0,0,0,,I waited a moment.
+Dialogue: 0,0:00:25.34,0:00:26.58,Default,,0,0,0,,Then I hit him again.

@@ -1,0 +1,20 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 300
+PlayResY: 300
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.54,Default,,0,0,0,,It was dark in the house.
+Dialogue: 0,0:00:07.26,0:00:10.16,Default,,0,0,0,,I stood in the hall and carefully opened the door.
+Dialogue: 0,0:00:10.76,0:00:15.66,Default,,0,0,0,,I saw Mom lying in bed, and I heard her breathing heavily.
+Dialogue: 0,0:00:16.42,0:00:18.36,Default,,0,0,0,,I stood at the head of the bed.
+Dialogue: 0,0:00:19.26,0:00:20.62,Default,,0,0,0,,I whispered her name.
+Dialogue: 0,0:00:22.04,0:00:25.44,Default,,0,0,0,,Then I waited until she'd recognize me in the dark.
+Dialogue: 0,0:00:26.56,0:00:28.18,Default,,0,0,0,,And then I hit her.

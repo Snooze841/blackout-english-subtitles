@@ -1,0 +1,21 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 344
+PlayResY: 320
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.28,0:00:03.98,Default,,0,0,0,,But your picture isn't true. Your father was the weak one.
+Dialogue: 0,0:00:04.52,0:00:07.36,Default,,0,0,0,,He was sick. She could make him do anything.
+Dialogue: 0,0:00:09.06,0:00:11.58,Default,,0,0,0,,She got aroused watching him punish you.
+Dialogue: 0,0:00:12.12,0:00:16.10,Default,,0,0,0,,Hello? Hello? Is nobody home?
+Dialogue: 0,0:00:20.54,0:00:24.12,Default,,0,0,0,,I guess he didn't want to answer with the demons' claws in him.
+Dialogue: 0,0:00:25.06,0:00:26.72,Default,,0,0,0,,What can a poor priest do?
+Dialogue: 0,0:00:28.30,0:00:32.28,Default,,0,0,0,,No, it'll take greater powers before he's normal again.
+Dialogue: 0,0:00:33.56,0:00:35.46,Default,,0,0,0,,It's over. Now.

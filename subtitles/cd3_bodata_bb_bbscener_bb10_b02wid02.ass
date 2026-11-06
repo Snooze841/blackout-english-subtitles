@@ -1,0 +1,20 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 224
+PlayResY: 236
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.06,Default,,0,0,0,,For some reason you've kept that woman's head.
+Dialogue: 0,0:00:05.48,0:00:08.02,Default,,0,0,0,,I don't quite understand why.
+Dialogue: 0,0:00:10.34,0:00:12.94,Default,,0,0,0,,And then all that trouble with Bob.
+Dialogue: 0,0:00:14.94,0:00:19.26,Default,,0,0,0,,It may cost your friend Kate her life.
+Dialogue: 0,0:00:21.12,0:00:24.10,Default,,0,0,0,,What we do with you will be decided later.
+Dialogue: 0,0:00:25.08,0:00:27.46,Default,,0,0,0,,Once we've got that infamous head back.
+Dialogue: 0,0:00:29.12,0:00:31.82,Default,,0,0,0,,Or a guarantee that it's gone.

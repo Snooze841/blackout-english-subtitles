@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 240
+PlayResY: 248
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,14,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.68,0:00:01.96,Default,,0,0,0,,Are you feeling better?
+Dialogue: 0,0:00:03.54,0:00:06.04,Default,,0,0,0,,It's as if everything's going a bit too fast now.
+Dialogue: 0,0:00:07.18,0:00:08.32,Default,,0,0,0,,I think you're ill.
+Dialogue: 0,0:00:09.10,0:00:10.12,Default,,0,0,0,,Very ill.
+Dialogue: 0,0:00:11.50,0:00:13.38,Default,,0,0,0,,You once gave me a key.
+Dialogue: 0,0:00:14.22,0:00:15.74,Default,,0,0,0,,I don't know if you remember.
+Dialogue: 0,0:00:16.40,0:00:20.24,Default,,0,0,0,,You asked me to give it back if you got worse.
+Dialogue: 0,0:00:21.54,0:00:23.94,Default,,0,0,0,,I think that point has been reached.
+Dialogue: 0,0:00:25.02,0:00:26.72,Default,,0,0,0,,Here's the key.
+Dialogue: 0,0:00:27.68,0:00:30.70,Default,,0,0,0,,I hope you'll consider checking yourself in,
+Dialogue: 0,0:00:30.70,0:00:32.90,Default,,0,0,0,,because you're not well anymore.

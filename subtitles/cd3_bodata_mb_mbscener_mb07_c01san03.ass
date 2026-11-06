@@ -1,0 +1,25 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 232
+PlayResY: 276
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.86,0:00:01.86,Default,,0,0,0,,It was strange.
+Dialogue: 0,0:00:02.88,0:00:06.02,Default,,0,0,0,,Remember that girl who disappeared and they think was murdered?
+Dialogue: 0,0:00:07.32,0:00:08.80,Default,,0,0,0,,I heard about her on TV yesterday.
+Dialogue: 0,0:00:10.02,0:00:12.06,Default,,0,0,0,,They said she'd been in some porn film.
+Dialogue: 0,0:00:12.86,0:00:14.00,Default,,0,0,0,,And then they showed a picture of her.
+Dialogue: 0,0:00:15.34,0:00:18.28,Default,,0,0,0,,It was almost like seeing my sister as she once looked.
+Dialogue: 0,0:00:18.60,0:00:19.60,Default,,0,0,0,,Just before she died.
+Dialogue: 0,0:00:20.64,0:00:21.64,Default,,0,0,0,,The eyes most of all.
+Dialogue: 0,0:00:22.96,0:00:24.04,Default,,0,0,0,,It was so creepy.
+Dialogue: 0,0:00:25.46,0:00:26.86,Default,,0,0,0,,I hope they find her alive.
+Dialogue: 0,0:00:27.38,0:00:29.66,Default,,0,0,0,,Most of all, I hope they catch that psycho.
+Dialogue: 0,0:00:30.00,0:00:32.76,Default,,0,0,0,,Promise you'll be careful when you go.

@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 216
+PlayResY: 240
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,12,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.68,Default,,0,0,0,,Hi, is that for me?
+Dialogue: 0,0:00:06.50,0:00:09.48,Default,,0,0,0,,Hm, it's from my mother.
+Dialogue: 0,0:00:10.86,0:00:11.86,Default,,0,0,0,,Here's what she writes:
+Dialogue: 0,0:00:13.20,0:00:17.36,Default,,0,0,0,,Dear Elisabeth, it's been three years since we broke off contact.
+Dialogue: 0,0:00:18.12,0:00:20.06,Default,,0,0,0,,One night when we were both too upset.
+Dialogue: 0,0:00:21.16,0:00:23.48,Default,,0,0,0,,Soon it's time to let it be forgotten.
+Dialogue: 0,0:00:24.50,0:00:26.92,Default,,0,0,0,,Since then I've regretted the way I said things.
+Dialogue: 0,0:00:27.58,0:00:29.92,Default,,0,0,0,,And you must have seen some of your own faults too.
+Dialogue: 0,0:00:31.00,0:00:31.98,Default,,0,0,0,,Here's a bill;
+Dialogue: 0,0:00:31.98,0:00:34.14,Default,,0,0,0,,I'll give ten times that if you
+Dialogue: 0,0:00:34.14,0:00:37.00,Default,,0,0,0,,swallow your pride and visit your mother.
+Dialogue: 0,0:00:38.66,0:00:42.30,Default,,0,0,0,,She just doesn't get that I don't want her filthy damn money.
+Dialogue: 0,0:00:45.40,0:00:49.08,Default,,0,0,0,,So, how about coming to The Mask tonight?
+Dialogue: 0,0:00:54.20,0:00:55.20,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:00:56.60,0:00:57.91,Default,,0,0,0,,I'll finish up here,
+Dialogue: 0,0:00:57.91,0:01:01.32,Default,,0,0,0,,then let's meet down at The Mask in fifteen minutes.

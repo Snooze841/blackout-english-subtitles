@@ -1,0 +1,21 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 240
+PlayResY: 240
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,14,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:05.08,Default,,0,0,0,,Oh hey, Kate says hi.
+Dialogue: 0,0:00:06.60,0:00:10.58,Default,,0,0,0,,She wonders if you'd meet her at the library,
+Dialogue: 0,0:00:10.58,0:00:13.06,Default,,0,0,0,,then you can go out tonight.
+Dialogue: 0,0:00:13.88,0:00:19.02,Default,,0,0,0,,Listen, here's an order for tonight: find a poetry book by Lorca.
+Dialogue: 0,0:00:20.28,0:00:22.60,Default,,0,0,0,,He's her favourite poet, see.
+Dialogue: 0,0:00:23.48,0:00:24.48,Default,,0,0,0,,Okay?
+Dialogue: 0,0:00:23.90,0:00:30.10,Default,,0,0,0,,Better write it down: L-O-R-C-A.
+Dialogue: 0,0:00:31.44,0:00:32.94,Default,,0,0,0,,Now I have to get started.

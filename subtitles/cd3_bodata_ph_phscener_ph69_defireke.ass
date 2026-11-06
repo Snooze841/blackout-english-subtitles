@@ -1,0 +1,17 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 300
+PlayResY: 400
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.77,Default,,0,0,0,,I've always chosen to vanish in the crowd,
+Dialogue: 0,0:00:05.77,0:00:10.44,Default,,0,0,0,,to howl with the wolves around me.
+Dialogue: 0,0:00:11.66,0:00:18.12,Default,,0,0,0,,The others got by on their intelligence, feelings and hate.
+Dialogue: 0,0:00:19.30,0:00:20.30,Default,,0,0,0,,Who are you?

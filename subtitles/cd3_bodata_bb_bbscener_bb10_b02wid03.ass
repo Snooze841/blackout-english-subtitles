@@ -1,0 +1,17 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 164
+PlayResY: 192
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,11,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.52,Default,,0,0,0,,You've already mixed those two things up once.
+Dialogue: 0,0:00:04.52,0:00:07.70,Default,,0,0,0,,And that's once too often.
+Dialogue: 0,0:00:07.70,0:00:10.58,Default,,0,0,0,,Think of Kate.
+Dialogue: 0,0:00:10.58,0:00:13.86,Default,,0,0,0,,And kiss the picture goodbye.

@@ -1,0 +1,23 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 320
+PlayResY: 300
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.66,0:00:01.96,Default,,0,0,0,,I don't want anything.
+Dialogue: 0,0:00:02.70,0:00:04.32,Default,,0,0,0,,I just want out of this town.
+Dialogue: 0,0:00:04.56,0:00:05.56,Default,,0,0,0,,I need time.
+Dialogue: 0,0:00:05.74,0:00:08.92,Default,,0,0,0,,Tell the widow you got the head and destroyed it.
+Dialogue: 0,0:00:09.30,0:00:10.68,Default,,0,0,0,,Give me a week, then I'm gone.
+Dialogue: 0,0:00:11.22,0:00:15.12,Default,,0,0,0,,I'll send you a letter from the airport saying where to find the head.
+Dialogue: 0,0:00:15.32,0:00:16.54,Default,,0,0,0,,Then you can do what you like with it.
+Dialogue: 0,0:00:17.30,0:00:18.54,Default,,0,0,0,,You can give it to the widow.
+Dialogue: 0,0:00:18.86,0:00:21.58,Default,,0,0,0,,Or blackmail her, like I'm doing to you now.
+Dialogue: 0,0:00:22.26,0:00:24.52,Default,,0,0,0,,I don't know what your ambitions are.

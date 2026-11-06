@@ -1,0 +1,22 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 172
+PlayResY: 252
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,11,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.04,Default,,0,0,0,,Hi.
+Dialogue: 0,0:00:02.04,0:00:04.36,Default,,0,0,0,,I was just about to take a bath.
+Dialogue: 0,0:00:04.36,0:00:06.70,Default,,0,0,0,,But we can meet in a while.
+Dialogue: 0,0:00:06.70,0:00:09.24,Default,,0,0,0,,Could you wait over at the library?
+Dialogue: 0,0:00:09.24,0:00:12.38,Default,,0,0,0,,I need to get a poetry collection before they close.
+Dialogue: 0,0:00:12.38,0:00:14.24,Default,,0,0,0,,Could you try to find it for me?
+Dialogue: 0,0:00:14.24,0:00:15.24,Default,,0,0,0,,It's Lorca.
+Dialogue: 0,0:00:15.06,0:00:17.14,Default,,0,0,0,,The collection is called Gypsy Ballads.
+Dialogue: 0,0:00:17.14,0:00:18.96,Default,,0,0,0,,See you.

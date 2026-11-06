@@ -1,0 +1,22 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 216
+PlayResY: 240
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,12,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.74,Default,,0,0,0,,My name is Elisabeth.
+Dialogue: 0,0:00:04.70,0:00:08.16,Default,,0,0,0,,It feels like I'm working all the time without getting anywhere.
+Dialogue: 0,0:00:09.08,0:00:11.20,Default,,0,0,0,,And when I finally get to bed, I can't sleep.
+Dialogue: 0,0:00:12.54,0:00:13.64,Default,,0,0,0,,It really wears me down.
+Dialogue: 0,0:00:15.38,0:00:17.34,Default,,0,0,0,,I could use someone to ask me out.
+Dialogue: 0,0:00:18.64,0:00:20.70,Default,,0,0,0,,Even if it's a bit late now.
+Dialogue: 0,0:00:26.18,0:00:27.18,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:00:28.64,0:00:29.91,Default,,0,0,0,,I'll finish up here,
+Dialogue: 0,0:00:29.91,0:00:33.20,Default,,0,0,0,,then let's meet down at The Mask in fifteen minutes.

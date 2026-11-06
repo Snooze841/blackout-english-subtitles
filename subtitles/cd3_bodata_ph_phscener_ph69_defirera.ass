@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 300
+PlayResY: 400
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.38,Default,,0,0,0,,I've always chosen to fight. To ram my head into the thickest walls.
+Dialogue: 0,0:00:05.96,0:00:10.28,Default,,0,0,0,,I live for revenge. Hate is my driving force.
+Dialogue: 0,0:00:10.76,0:00:12.78,Default,,0,0,0,,Earth has always just gone with the flow.
+Dialogue: 0,0:00:13.04,0:00:15.85,Default,,0,0,0,,Wind got by on its intelligence,
+Dialogue: 0,0:00:15.85,0:00:19.18,Default,,0,0,0,,and the sea let emotions take control.
+Dialogue: 0,0:00:19.84,0:00:20.86,Default,,0,0,0,,Who are you?
