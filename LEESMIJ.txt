@@ -1,0 +1,190 @@
+﻿BLACKOUT - ENGELSE ONDERTITELS
+==============================
+Versie 1.1, oktober 2026
+
+Gemaakt in oktober 2026 door een liefhebber met hulp van Claude (Anthropic).
+
+Blackout (Deadline Multimedia / IQ Media, 1997) is een donkere Deense filmspel met echte acteurs,
+voor Windows 3.1, op 3 cd's. Je wordt wakker zonder geheugen en ontdekt langzaam dat je misschien
+een moordenaar bent. Dit pakket is voor de ZWEEDSE uitgave: Zweeds gesproken, zonder
+ondertitels. Het script maakt kopieen van je eigen drie cd's waarin 245 filmpjes Engelse
+ondertitels in beeld hebben. Sinds versie 1.1 is er ook een strook met Engelse tekst voor de 162
+gesproken stukken zonder beeld (telefoongesprekken, stemmen, vertelling).
+
+Dit pakket bevat GEEN spelbestanden: geen films, geen plaatjes, geen speldata. Er zitten alleen
+de Engelse ondertitels in (subtitles\*.ass, sound.json) en vingerafdrukken (SHA-256) van de originele films.
+Je hebt je eigen originele cd's nodig (of images daarvan). Die worden alleen gelezen, nooit
+veranderd.
+
+De teksten in het script zijn in het Engels (de ondertitels zijn Engels).
+
+
+INHOUD VAN DIT PAKKET
+---------------------
+  Patch Blackout.bat                     dubbelklik hierop om de ondertitelde images te maken
+  Blackout - English subtitles.ps1       het eigenlijke script (PowerShell, gewone tekst)
+  Start sound subtitles.bat              dubbelklik hierop VOOR je gaat spelen, voor de tekststrook
+  Blackout - sound subtitles.ps1         het script van de tekststrook (PowerShell, gewone tekst)
+  subtitles\                             de ondertitels: een .ass-bestand per film, clips.json
+                                         (vingerafdrukken en groottes van de originele films) en
+                                         sound.json (de tekst voor de gesproken stukken)
+  LEESMIJ.txt                            dit bestand
+  README.txt                             dit bestand in het Engels
+
+
+WAT HEB JE NODIG
+----------------
+  - Windows 10 of 11 (het script gebruikt PowerShell 5.1, dat bij Windows hoort).
+  - De drie cd's van de Zweedse uitgave van Blackout, als:
+      a) .iso-images, of
+      b) ruwe .bin/.cue-images, of
+      c) de cd's zelf in je cd- of dvd-speler (die doe je er dan een voor een in).
+  - FFmpeg, een gratis programma voor films. Het script biedt aan de officiele versie te
+    downloaden (FFmpeg 9.0.2 "essentials" van gyan.dev, gelinkt vanaf ffmpeg.org; 115 MB). De
+    download wordt gecontroleerd met een vingerafdruk (SHA-256); alleen ffmpeg.exe en de licentie
+    blijven bewaard, in de map ffmpeg naast het script. Heb je het al? Start het script dan met
+    -FFmpeg "<pad naar ffmpeg.exe>".
+  - Ongeveer 3,6 GB vrije ruimte (de drie nieuwe images zijn samen 1,9 GB, de cd-map 1,1 GB).
+
+
+ZO GEBRUIK JE HET
+-----------------
+  1. Pak het hele zip-bestand uit (rechtermuisknop > Alles uitpakken). Start niets vanuit het
+     zip-bestand zelf.
+  2. Dubbelklik op "Patch Blackout.bat".
+     Toont Windows een blauwe waarschuwing (SmartScreen), kies dan "Meer informatie" en "Toch
+     uitvoeren". Het script is gewone tekst: je kunt het lezen met Kladblok.
+  3. Beantwoord de vragen (in het Engels):
+       - FFmpeg downloaden (Y), als het er nog niet is;
+       - "Where is CD 1": sleep het .iso-bestand (of .cue/.bin) van cd 1 in het venster en druk
+         op Enter, of typ de stationsletter van je cd-speler (bijv. E). Voor cd 2 en 3 raadt het
+         script het bestand vaak zelf (druk op Enter);
+       - de map voor de nieuwe images en de cd-map (Enter = de map van het image van cd 1).
+  4. Wachten. De cd's kopieren duurt een paar minuten; de ondertitels in de films zetten duurt
+     ongeveer 30 tot 90 minuten, afhankelijk van je computer.
+  5. Klaar: in de gekozen map staan
+       Blackout CD 1 (English subtitles).iso
+       Blackout CD 2 (English subtitles).iso
+       Blackout CD 3 (English subtitles).iso
+       Blackout CDs (English subtitles)         (een map: de drie cd's samen)
+     Gebruik de images in plaats van de originele images, op de manier waarop je het spel al
+     speelt. In DOSBox bijvoorbeeld:
+       imgmount D "Blackout CD 1 (English subtitles).iso" "Blackout CD 2 (English subtitles).iso" "Blackout CD 3 (English subtitles).iso" -t iso
+     (Ctrl+F4 wisselt naar de volgende cd als het spel om een andere cd vraagt.)
+     Wil je ook de tekst bij de gesproken stukken? Gebruik dan de map in plaats van de images:
+     zie het volgende hoofdstuk.
+
+Voor gevorderden (PowerShell):
+  .\"Blackout - English subtitles.ps1" -Cd1 "x\CD 1.iso" -Cd2 "x\CD 2.iso" -Cd3 "x\CD 3.iso" -Output "x\Engels"
+  Meer opties: -FFmpeg "<pad>", -Workers <n> (aantal films tegelijk), -KeepWork (de
+  ondertitelde films in de werkmap bewaren), -NoWait.
+  Images al gemaakt met versie 1.0? Dit maakt daaruit alleen de cd-map (ongeveer 1 minuut):
+  .\"Blackout - English subtitles.ps1" -FolderOnly -Output "<map met de drie nieuwe images>"
+
+Is het script onderbroken? Start het nog eens met dezelfde uitvoermap: de films die al klaar
+waren (in de map blackout-subtitles-work) worden niet opnieuw gemaakt.
+
+
+TEKST BIJ DE GESPROKEN STUKKEN ZONDER BEELD
+-------------------------------------------
+Een groot deel van het verhaal is alleen geluid: telefoongesprekken, stemmen in je hoofd,
+vertelling bij een stilstaand beeld. Daar is geen film om ondertitels in te tekenen. Daarom toont
+een klein programma de tekst in een strook over DOSBox terwijl je speelt.
+  1. Vervang in je DOSBox-instellingen de imgmount-regel door deze regel (met je eigen map, en
+     dezelfde stationsletter als je al gebruikte):
+       mount D "<jouw map>\Blackout CDs (English subtitles)" -t cdrom -label BLACKOUT1
+     In de map staan alle drie de cd's, dus je hoeft nooit van cd te wisselen.
+  2. Dubbelklik op "Start sound subtitles.bat". Er komt een zwart venster. Laat dat open staan.
+  3. Start Blackout zoals altijd. De tekst verschijnt onderin het DOSBox-venster of -scherm als
+     er iemand spreekt. Sluit je DOSBox, dan sluit het zwarte venster vanzelf.
+Goed om te weten:
+  - De strook heeft de MAP nodig, niet de images: DOSBox opent dan voor elk geluid een echt
+    bestand op je pc, en het programma kijkt een paar keer per seconde welk .MOV-bestand dat is.
+    Het leest alleen de bestandsnamen. Het raakt het spel, DOSBox en Windows niet aan.
+  - Het zoekt een programma waarvan de naam met "dosbox" begint. Het werkt niet met echte cd's,
+    een virtuele machine of een andere emulator.
+  - De tekst loopt mee vanaf het moment dat het spel een geluid opent en kan dus iets voor- of
+    achterlopen.
+  - Geluiden zonder spraak (muziek, effecten) tonen niets. Dat hoort zo.
+  - Verschijnt er niets? Kijk in blackout-sound-subtitles.log naast het script.
+
+
+WAT HET SCRIPT DOET
+-------------------
+Het spel speelt zijn films met QuickTime 2.1 voor Windows 3.1 (beeld Cinepak, geluid IMA ADPCM).
+Het script:
+  1. kopieert elke cd naar een nieuw image en controleert de volumenaam (BLACKOUT1, BLACKOUT2,
+     BLACKOUT3);
+  2. zoekt alle QuickTime-films (.MOV) op de kopieen en herkent de 245 films met spraak aan hun
+     vingerafdruk (SHA-256). Films die het niet herkent, blijven zoals ze zijn;
+  3. laat FFmpeg de Engelse ondertitels in het beeld tekenen en het beeld opnieuw als Cinepak
+     opslaan (de codec van het origineel);
+  4. zet het nieuwe beeld in het originele QuickTime-bestand: de kop en het geluid van het
+     origineel blijven gelijk, alleen de beelden zijn nieuw. (QuickTime 2.1 kan de bestanden die
+     FFmpeg zelf maakt niet openen.) Elke nieuwe film is hooguit even groot als het origineel en
+     past dus op dezelfde plek op de cd; zo nodig maakt het script hem nog eens iets kleiner;
+  5. schrijft de films op de kopieen, past de bestandsgroottes in de inhoudsopgave van de cd aan,
+     controleert het resultaat en geeft de kopieen hun definitieve naam;
+  6. kopieert alle bestanden van de drie nieuwe images naar een map, voor de tekststrook.
+     Bestanden die op meer cd's staan, worden een keer gekopieerd. 23 daarvan verschillen per cd
+     (20 plaatjes, 2 korte geluiden en de hartjes-animatie): de versie van de laagste cd wordt
+     gebruikt, dus in een later bedrijf kan zo'n plaatje iets anders ogen dan met cd's wisselen.
+     Geen daarvan heeft tekst in de strook. Het spel controleert alleen of de drie merkbestanden
+     van de cd's er zijn.
+Met precies dezelfde cd-images en FFmpeg 9.0.2 is het resultaat byte voor byte gelijk aan de
+geteste versie; het script meldt of dat zo is.
+Er wordt niets geinstalleerd en niets in Windows veranderd.
+
+
+OVER DE ONDERTITELS (EERLIJK)
+-----------------------------
+  - De Zweedse spraak is automatisch uitgeschreven met Whisper (spraakherkenning van OpenAI) en
+    daarna naar het Engels vertaald. Niemand heeft de vertaling naast het originele script
+    gelegd, dus hier en daar kan een zin fout of vreemd zijn. Namen en sommige woorden kunnen
+    verkeerd verstaan zijn.
+  - Films met beeld hebben ondertitels in het beeld. Gesprekken die alleen geluid zijn (162
+    geluidsbestanden) hebben hun tekst in de strook, zie hierboven. De andere geluidsbestanden
+    zijn muziek en effecten.
+  - De ondertitels staan onderin beeld, wit met een zwarte rand.
+
+
+GETEST
+------
+  - Met .iso-images van de drie Zweedse cd's, op Windows 10 22H2 (64-bit), met FFmpeg 9.0.2
+    (door het script gedownload): de drie nieuwe images waren byte voor byte gelijk aan de
+    geteste versie, op een computer met 8 processorkernen in ongeveer 65 minuten. Het spel is
+    gespeeld in Windows 3.1 in DOSBox Staging met QuickTime 2.1: de films spelen met ondertitels.
+  - Versie 1.1 is nog eens helemaal gedraaid (met de films van de eerste keer, dus zonder de lange
+    stap 4): de images waren weer byte voor byte gelijk, en de cd-map is byte voor byte gelijk aan
+    de map waarmee het spel gespeeld is.
+  - De tekststrook is getest met DOSBox Staging op Windows 10, op volledig scherm en in een
+    venster, met die cd-map: een gesproken geluid van het spel, afgespeeld in Windows 3.1, toonde
+    zijn tekst zin voor zin en de strook verdween aan het eind. In het spel zelf herkende de
+    strook de geluiden van de intro. Het spel spelen met de strook is alleen gedaan met een
+    eerdere versie die op dezelfde manier werkt; niemand heeft het hele spel ermee uitgespeeld.
+    Andere versies van DOSBox zijn niet getest.
+  - Een .bin/.cue-image (MODE1/2352) is alleen getest met een image dat uit de .iso gemaakt is.
+    Lezen van een echte cd in een cd-speler is niet getest. Lukt dat niet, maak dan met een ander
+    programma een image en gebruik dat.
+  - Andere uitgaven van Blackout (andere talen) worden niet herkend.
+
+
+VERWIJDEREN
+-----------
+Verwijder de nieuwe images, de cd-map en de map ffmpeg naast het script. Meer is het niet.
+
+
+MAKERS EN LICENTIES
+-------------------
+  Blackout (c) 1997 Deadline Multimedia / IQ Media. Dit pakket bevat geen bestanden van het spel.
+  De images en de map die het script maakt zijn alleen voor eigen gebruik: niet delen of online
+  zetten.
+
+  FFmpeg zit niet in dit pakket; het script kan de officiele versie van Gyan Doshi (gyan.dev)
+  downloaden. FFmpeg is vrije software onder de GNU GPL versie 3 (zie ffmpeg\LICENSE.txt na het
+  downloaden; broncode: https://ffmpeg.org).
+  De spraakherkenning is gedaan met Whisper (OpenAI, MIT-licentie) via whisper.cpp.
+
+  De rest van dit pakket (de scripts, de .bat-bestanden en de Engelse ondertitels) is in oktober
+  2026 gemaakt door een liefhebber met hulp van Claude (Anthropic). Dit pakket mag vrij gedeeld,
+  gebruikt en aangepast worden.
