@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 228
+PlayResY: 228
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:07.38,Default,,0,0,0,,Allah, Allah, it would be nice to be a decent person.
+Dialogue: 0,0:00:08.08,0:00:11.32,Default,,0,0,0,,To sleep at night without nightmares.
+Dialogue: 0,0:00:12.08,0:00:14.32,Default,,0,0,0,,To put an end to the drinking.
+Dialogue: 0,0:00:17.24,0:00:20.94,Default,,0,0,0,,I'm going back to take care of my parents.
+Dialogue: 0,0:00:21.74,0:00:23.34,Default,,0,0,0,,Open a little shop.
+Dialogue: 0,0:00:24.06,0:00:27.76,Default,,0,0,0,,Look at myself in the mirror in the morning without shame.

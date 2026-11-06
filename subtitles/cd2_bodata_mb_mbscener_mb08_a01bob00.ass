@@ -1,0 +1,22 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 308
+PlayResY: 252
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:09.30,Default,,0,0,0,,To be honest, I don't understand you one bit.
+Dialogue: 0,0:00:11.04,0:00:16.32,Default,,0,0,0,,It's amazing you even dare talk to me after what you tried.
+Dialogue: 0,0:00:17.66,0:00:19.82,Default,,0,0,0,,What the hell are you really up to?
+Dialogue: 0,0:00:24.02,0:00:31.02,Default,,0,0,0,,Either you're damn stupid, or brave, or you've got a screw loose.
+Dialogue: 0,0:00:31.62,0:00:35.90,Default,,0,0,0,,I don't know which. Hell, anyway.
+Dialogue: 0,0:00:36.50,0:00:39.32,Default,,0,0,0,,I don't think what you're doing is very smart.
+Dialogue: 0,0:00:40.42,0:00:42.40,Default,,0,0,0,,And the old lady doesn't like it.
+Dialogue: 0,0:00:43.68,0:00:48.04,Default,,0,0,0,,If I were you, I'd come up with it, fast as hell.
+Dialogue: 0,0:00:49.04,0:00:54.66,Default,,0,0,0,,But watch out. The water is deep and the night dark.

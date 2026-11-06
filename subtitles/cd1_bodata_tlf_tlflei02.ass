@@ -1,0 +1,21 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 320
+PlayResY: 240
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.32,Default,,0,0,0,,Hello, this is Lai Kong.
+Dialogue: 0,0:00:03.22,0:00:05.52,Default,,0,0,0,,The vultures are circling over you.
+Dialogue: 0,0:00:06.22,0:00:08.26,Default,,0,0,0,,Come see me as soon as you can.
+Dialogue: 0,0:00:09.44,0:00:10.44,Default,,0,0,0,,Who is it?
+Dialogue: 0,0:00:10.22,0:00:13.08,Default,,0,0,0,,The spring wind sends rain past the window
+Dialogue: 0,0:00:13.08,0:00:17.62,Default,,0,0,0,,promising warmth and the juice of sweet fruit.
+Dialogue: 0,0:00:18.66,0:00:19.86,Default,,0,0,0,,Give her my regards.
+Dialogue: 0,0:00:20.68,0:00:21.68,Default,,0,0,0,,Goodbye.

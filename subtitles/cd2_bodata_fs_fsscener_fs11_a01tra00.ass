@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 268
+PlayResY: 288
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,15,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.90,0:00:02.24,Default,,0,0,0,,Oh, lovely, sweetie.
+Dialogue: 0,0:00:03.20,0:00:06.88,Default,,0,0,0,,Be a dear and deliver it right away. Thanks a million.
+Dialogue: 0,0:00:08.28,0:00:12.24,Default,,0,0,0,,She cleans at the station uptown, so if you go now...
+Dialogue: 0,0:00:12.24,0:00:13.66,Default,,0,0,0,,She mops the toilets.
+Dialogue: 0,0:00:14.52,0:00:16.80,Default,,0,0,0,,Lord, she'll be so happy about this.
+Dialogue: 0,0:00:17.18,0:00:18.74,Default,,0,0,0,,And no peeking!
+Dialogue: 0,0:00:19.20,0:00:23.84,Default,,0,0,0,,If you must know, it's from her mother; they've never got along.
+Dialogue: 0,0:00:24.48,0:00:26.14,Default,,0,0,0,,Now she wants to make up.
+Dialogue: 0,0:00:26.58,0:00:28.20,Default,,0,0,0,,A couple of times a year.
+Dialogue: 0,0:00:28.44,0:00:31.04,Default,,0,0,0,,And then Elisabeth gets a letter like this one.
+Dialogue: 0,0:00:32.64,0:00:34.84,Default,,0,0,0,,But now I have to get him home.

@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 280
+PlayResY: 288
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,16,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.82,Default,,0,0,0,,I've been told to tell you about the four forces inside you.
+Dialogue: 0,0:00:08.60,0:00:13.52,Default,,0,0,0,,A pillar divided into four parts: that is your soul.
+Dialogue: 0,0:00:15.08,0:00:18.54,Default,,0,0,0,,The parts are unaware of each other.
+Dialogue: 0,0:00:19.98,0:00:23.45,Default,,0,0,0,,But a time will come when you must choose,
+Dialogue: 0,0:00:23.45,0:00:27.42,Default,,0,0,0,,as you're already doing now, without knowing it.
+Dialogue: 0,0:00:29.28,0:00:30.88,Default,,0,0,0,,You must be careful.
+Dialogue: 0,0:00:32.38,0:00:33.38,Default,,0,0,0,,Good that you came.
+Dialogue: 0,0:00:35.12,0:00:36.88,Default,,0,0,0,,There are things you don't recall.
+Dialogue: 0,0:00:38.52,0:00:40.22,Default,,0,0,0,,Things you don't know you're doing.
+Dialogue: 0,0:00:42.42,0:00:43.42,Default,,0,0,0,,Want to see them?
+Dialogue: 0,0:00:47.46,0:00:48.46,Default,,0,0,0,,Good.
+Dialogue: 0,0:00:50.14,0:00:54.88,Default,,0,0,0,,I see you sitting in an apartment.
+Dialogue: 0,0:00:56.38,0:01:00.54,Default,,0,0,0,,And on the bed I see a body.
+Dialogue: 0,0:01:02.08,0:01:04.10,Default,,0,0,0,,It's been brutally beaten.
+Dialogue: 0,0:01:06.10,0:01:07.54,Default,,0,0,0,,It's a woman.
+Dialogue: 0,0:01:10.28,0:01:12.02,Default,,0,0,0,,Do you know who did it?
+Dialogue: 0,0:01:14.22,0:01:15.22,Default,,0,0,0,,Do you remember?
+Dialogue: 0,0:01:17.02,0:01:18.02,Default,,0,0,0,,No.
+Dialogue: 0,0:01:19.48,0:01:21.68,Default,,0,0,0,,I can see you don't remember.
+Dialogue: 0,0:01:24.54,0:01:27.80,Default,,0,0,0,,I see a ghost from the past.
+Dialogue: 0,0:01:29.66,0:01:30.76,Default,,0,0,0,,An old lady.
+Dialogue: 0,0:01:32.92,0:01:33.92,Default,,0,0,0,,A widow.
+Dialogue: 0,0:01:36.24,0:01:38.06,Default,,0,0,0,,She knew your parents once.
+Dialogue: 0,0:01:40.54,0:01:42.56,Default,,0,0,0,,She's known you since you were little.
+Dialogue: 0,0:01:45.44,0:01:46.96,Default,,0,0,0,,You're going to meet her.
+Dialogue: 0,0:01:49.10,0:01:50.12,Default,,0,0,0,,Close your eyes now.

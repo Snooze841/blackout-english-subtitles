@@ -1,0 +1,23 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 228
+PlayResY: 260
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:03.38,Default,,0,0,0,,I hope you've managed to make a deal with them now.
+Dialogue: 0,0:00:04.24,0:00:05.42,Default,,0,0,0,,I was so scared that day.
+Dialogue: 0,0:00:05.78,0:00:07.52,Default,,0,0,0,,I really didn't want to see them there again.
+Dialogue: 0,0:00:08.96,0:00:11.10,Default,,0,0,0,,And I can't work with this eye either.
+Dialogue: 0,0:00:11.32,0:00:12.32,Default,,0,0,0,,I can't feel anything.
+Dialogue: 0,0:00:13.30,0:00:15.02,Default,,0,0,0,,I really don't like this town.
+Dialogue: 0,0:00:15.76,0:00:17.84,Default,,0,0,0,,As soon as I've made enough money, I'm out.
+Dialogue: 0,0:00:18.84,0:00:20.94,Default,,0,0,0,,Somewhere you don't get assaulted.
+Dialogue: 0,0:00:21.28,0:00:22.74,Default,,0,0,0,,No arsonists or junkies.
+Dialogue: 0,0:00:28.66,0:00:31.54,Default,,0,0,0,,By the way, did you hear a house burned down last night?

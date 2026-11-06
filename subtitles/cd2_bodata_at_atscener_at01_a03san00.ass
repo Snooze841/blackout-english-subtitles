@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 116
+PlayResY: 120
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,11,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.00,Default,,0,0,0,,Okay, listen. I meant to use one of these words in the first blank.
+Dialogue: 0,0:00:06.00,0:00:10.00,Default,,0,0,0,,And I want one of these words in the second blank.
+Dialogue: 0,0:00:10.00,0:00:12.00,Default,,0,0,0,,Which would you choose?
+Dialogue: 0,0:00:15.00,0:00:18.00,Default,,0,0,0,,Ah, that's it!
+Dialogue: 0,0:00:19.00,0:00:23.00,Default,,0,0,0,,Thanks! I'll run up and give them to Bruce right away. Bye!

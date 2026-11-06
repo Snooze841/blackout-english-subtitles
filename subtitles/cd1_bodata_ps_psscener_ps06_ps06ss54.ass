@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 320
+PlayResY: 300
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.74,Default,,0,0,0,,I'm 25 years old.
+Dialogue: 0,0:00:02.52,0:00:05.14,Default,,0,0,0,,I know why you asked me all those questions.
+Dialogue: 0,0:00:05.70,0:00:07.46,Default,,0,0,0,,I'm aware of the others.
+Dialogue: 0,0:00:08.10,0:00:11.06,Default,,0,0,0,,You probably see them as obsessions.
+Dialogue: 0,0:00:11.58,0:00:14.30,Default,,0,0,0,,And so you should, in your profession.
+Dialogue: 0,0:00:14.76,0:00:16.86,Default,,0,0,0,,But they're more concrete than that.
+Dialogue: 0,0:00:17.40,0:00:18.57,Default,,0,0,0,,As a scientist,
+Dialogue: 0,0:00:18.57,0:00:23.64,Default,,0,0,0,,you'll hardly accept that energy can become matter and act alone.
+Dialogue: 0,0:00:24.48,0:00:25.94,Default,,0,0,0,,But that's how it is.
+Dialogue: 0,0:00:26.94,0:00:30.56,Default,,0,0,0,,Now we're sitting here in a relaxed atmosphere.
+Dialogue: 0,0:00:31.22,0:00:33.30,Default,,0,0,0,,I'm your patient and you're the doctor.
+Dialogue: 0,0:00:34.16,0:00:36.69,Default,,0,0,0,,Here it's all about being rational
+Dialogue: 0,0:00:36.69,0:00:39.52,Default,,0,0,0,,and controlling subconscious energies.
+Dialogue: 0,0:00:40.04,0:00:42.50,Default,,0,0,0,,You don't doubt you're better at that.
+Dialogue: 0,0:00:43.14,0:00:47.59,Default,,0,0,0,,Yet it's odd that a man with such tight
+Dialogue: 0,0:00:47.59,0:00:52.38,Default,,0,0,0,,self-control can't make his marriage work.

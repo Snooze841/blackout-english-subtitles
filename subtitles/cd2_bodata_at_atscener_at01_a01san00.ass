@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 116
+PlayResY: 120
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,11,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.12,Default,,0,0,0,,I can't get them to work.
+Dialogue: 0,0:00:08.02,0:00:11.28,Default,,0,0,0,,Bruce ordered poems, but I can't get them right.
+Dialogue: 0,0:00:12.62,0:00:16.12,Default,,0,0,0,,The images speak for themselves; the last words won't fit.
+Dialogue: 0,0:00:17.14,0:00:19.32,Default,,0,0,0,,Can you help? Or must you go right now?
+Dialogue: 0,0:00:24.06,0:00:26.46,Default,,0,0,0,,Okay, but I have to go too.
+Dialogue: 0,0:00:27.68,0:00:32.68,Default,,0,0,0,,Bye, see you.

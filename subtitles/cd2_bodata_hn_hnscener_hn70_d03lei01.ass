@@ -1,0 +1,20 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 196
+PlayResY: 268
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,11,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.70,Default,,0,0,0,,That might be a good idea.
+Dialogue: 0,0:00:03.28,0:00:06.90,Default,,0,0,0,,He has many pieces of the puzzle you're trying to solve.
+Dialogue: 0,0:00:07.62,0:00:10.60,Default,,0,0,0,,Because he knew your father, I know that.
+Dialogue: 0,0:00:10.94,0:00:13.18,Default,,0,0,0,,They used to come here to eat.
+Dialogue: 0,0:00:13.86,0:00:16.26,Default,,0,0,0,,I helped my father in the restaurant.
+Dialogue: 0,0:00:17.02,0:00:20.26,Default,,0,0,0,,By then my father was an old man.
+Dialogue: 0,0:00:20.26,0:00:24.64,Default,,0,0,0,,And the restaurant was a fine place then, much smarter than today.

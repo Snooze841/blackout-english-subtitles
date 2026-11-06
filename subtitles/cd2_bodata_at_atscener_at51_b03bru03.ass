@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 280
+PlayResY: 240
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,16,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.62,Default,,0,0,0,,So I painted small squares in dreary green and boring blue.
+Dialogue: 0,0:00:05.12,0:00:07.32,Default,,0,0,0,,Mostly stuff that was incomprehensible.
+Dialogue: 0,0:00:07.74,0:00:09.24,Default,,0,0,0,,Stuff that said what it should.
+Dialogue: 0,0:00:10.04,0:00:11.96,Default,,0,0,0,,That kind of art had one flaw.
+Dialogue: 0,0:00:12.26,0:00:14.10,Default,,0,0,0,,No fun. No progress.
+Dialogue: 0,0:00:14.56,0:00:17.32,Default,,0,0,0,,It felt like there was no reason to keep at it.
+Dialogue: 0,0:00:17.68,0:00:20.66,Default,,0,0,0,,But now I've finally found where I'm headed, what art is.
+Dialogue: 0,0:00:21.44,0:00:25.48,Default,,0,0,0,,Yes, art is about mastering the borderline with precision.
+Dialogue: 0,0:00:25.68,0:00:27.94,Default,,0,0,0,,Letting the subconscious, intuition,
+Dialogue: 0,0:00:27.94,0:00:30.14,Default,,0,0,0,,inspiration take up half the space,
+Dialogue: 0,0:00:30.42,0:00:32.08,Default,,0,0,0,,while I control the other half.

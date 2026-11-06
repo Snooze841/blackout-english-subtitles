@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 248
+PlayResY: 240
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,14,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.58,Default,,0,0,0,,I need to sit alone for a while, okay?
+Dialogue: 0,0:00:06.58,0:00:08.54,Default,,0,0,0,,Long day. I'm not up for talking.
+Dialogue: 0,0:00:13.34,0:00:14.74,Default,,0,0,0,,Let me tell you.
+Dialogue: 0,0:00:15.84,0:00:16.84,Default,,0,0,0,,I'm on my period.
+Dialogue: 0,0:00:17.48,0:00:18.48,Default,,0,0,0,,I'm over 30.
+Dialogue: 0,0:00:18.82,0:00:20.04,Default,,0,0,0,,I've a son of 14.
+Dialogue: 0,0:00:20.74,0:00:23.98,Default,,0,0,0,,I spend my days cleaning toilets in the subway.
+Dialogue: 0,0:00:25.12,0:00:27.96,Default,,0,0,0,,My mother's an old hag who poisons my life.
+Dialogue: 0,0:00:28.70,0:00:31.12,Default,,0,0,0,,My brother's gay and jealous of all my men.
+Dialogue: 0,0:00:32.28,0:00:35.48,Default,,0,0,0,,In other words, I'm not in the mood for flirting.
+Dialogue: 0,0:00:37.20,0:00:38.66,Default,,0,0,0,,So I think you'd better go.
+Dialogue: 0,0:00:44.64,0:00:47.30,Default,,0,0,0,,Wow, your persistence is impressive.
+Dialogue: 0,0:00:48.14,0:00:49.54,Default,,0,0,0,,Maybe I overdid it.
+Dialogue: 0,0:00:51.30,0:00:53.38,Default,,0,0,0,,You're cute, but I'm really beat today.
+Dialogue: 0,0:00:53.70,0:00:54.70,Default,,0,0,0,,Another time, maybe.
+Dialogue: 0,0:00:55.32,0:00:56.32,Default,,0,0,0,,Take care.

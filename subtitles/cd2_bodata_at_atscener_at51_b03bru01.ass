@@ -1,0 +1,27 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 244
+PlayResY: 264
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,14,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.86,Default,,0,0,0,,Remember when you first started coming here?
+Dialogue: 0,0:00:02.86,0:00:05.10,Default,,0,0,0,,Back then I was doing that kind of stuff.
+Dialogue: 0,0:00:05.10,0:00:08.02,Default,,0,0,0,,I let it all out and it just came pouring out.
+Dialogue: 0,0:00:08.02,0:00:10.02,Default,,0,0,0,,I had no distance from what I painted.
+Dialogue: 0,0:00:10.02,0:00:11.40,Default,,0,0,0,,I was the painting.
+Dialogue: 0,0:00:11.40,0:00:13.12,Default,,0,0,0,,Then I saw it didn't hold up.
+Dialogue: 0,0:00:13.12,0:00:14.60,Default,,0,0,0,,It didn't hold up at all.
+Dialogue: 0,0:00:14.60,0:00:17.44,Default,,0,0,0,,All the banal, immature stuff that isn't art
+Dialogue: 0,0:00:17.44,0:00:18.44,Default,,0,0,0,,It came out of me.
+Dialogue: 0,0:00:18.20,0:00:20.36,Default,,0,0,0,,So I began working with more control.
+Dialogue: 0,0:00:20.36,0:00:22.22,Default,,0,0,0,,I realized I had to have control.
+Dialogue: 0,0:00:22.22,0:00:24.74,Default,,0,0,0,,Something to convey all my thoughts on art
+Dialogue: 0,0:00:24.74,0:00:26.80,Default,,0,0,0,,and how ruined it had become.
+Dialogue: 0,0:00:26.80,0:00:28.20,Default,,0,0,0,,Life's emptiness, and so on.

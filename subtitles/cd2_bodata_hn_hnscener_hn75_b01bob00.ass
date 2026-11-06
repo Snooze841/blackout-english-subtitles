@@ -1,0 +1,21 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 80
+PlayResY: 256
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,11,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.90,Default,,0,0,0,,You forgot the head, you idiot.
+Dialogue: 0,0:00:06.90,0:00:10.64,Default,,0,0,0,,I don't know what the hell you did with it,
+Dialogue: 0,0:00:10.64,0:00:12.50,Default,,0,0,0,,but you'll have to get it,
+Dialogue: 0,0:00:12.50,0:00:14.34,Default,,0,0,0,,and make it quick.
+Dialogue: 0,0:00:14.34,0:00:20.18,Default,,0,0,0,,I don't get what the Widow wants with an idiot like you.
+Dialogue: 0,0:00:20.18,0:00:22.04,Default,,0,0,0,,Get lost now.
+Dialogue: 0,0:00:22.04,0:00:24.44,Default,,0,0,0,,And don't come back
+Dialogue: 0,0:00:24.44,0:00:26.46,Default,,0,0,0,,until you've fixed it.

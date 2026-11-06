@@ -1,0 +1,17 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 228
+PlayResY: 308
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.90,Default,,0,0,0,,Perhaps because our memories grow in
+Dialogue: 0,0:00:03.90,0:00:08.88,Default,,0,0,0,,number as the time we have left grows shorter.
+Dialogue: 0,0:00:10.20,0:00:18.46,Default,,0,0,0,,That's why it's so important to remember, ideally everything,
+Dialogue: 0,0:00:18.46,0:00:20.90,Default,,0,0,0,,even what we fear.

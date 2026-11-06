@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 320
+PlayResY: 300
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.10,Default,,0,0,0,,I am in the sea. I'm six years old. I'm so afraid of the dark,
+Dialogue: 0,0:00:06.10,0:00:08.56,Default,,0,0,0,,full of dangerous things.
+Dialogue: 0,0:00:09.16,0:00:12.90,Default,,0,0,0,,In the dark, time rushes by, but it can stop;
+Dialogue: 0,0:00:12.90,0:00:16.06,Default,,0,0,0,,the dark turns hard and nothing moves.
+Dialogue: 0,0:00:16.84,0:00:21.18,Default,,0,0,0,,It lasts a long time. Someone always whispers in my ear.
+Dialogue: 0,0:00:21.18,0:00:23.12,Default,,0,0,0,,The dark is like a stone.
+Dialogue: 0,0:00:23.70,0:00:28.54,Default,,0,0,0,,Sometimes I climb to the top, then throw myself back into the abyss.
+Dialogue: 0,0:00:29.04,0:00:34.74,Default,,0,0,0,,A fall that lasts for eternities. I never land. I'm still falling.
+Dialogue: 0,0:00:35.40,0:00:39.80,Default,,0,0,0,,Trapped in the thick dark. Or I go to the river of pain,
+Dialogue: 0,0:00:39.80,0:00:41.68,Default,,0,0,0,,which never ends either.
+Dialogue: 0,0:00:42.42,0:00:47.87,Default,,0,0,0,,Cold, deep water flows around my body. The pain is always there.
+Dialogue: 0,0:00:47.87,0:00:49.32,Default,,0,0,0,,It's always dark.
+Dialogue: 0,0:00:49.32,0:00:54.85,Default,,0,0,0,,For a moment a little light seeps in. I smell the flowers,
+Dialogue: 0,0:00:54.85,0:00:57.04,Default,,0,0,0,,feel the wind's caress.
+Dialogue: 0,0:00:57.52,0:01:01.92,Default,,0,0,0,,Speak words that fly. Words from the heart.
+Dialogue: 0,0:01:02.54,0:01:05.56,Default,,0,0,0,,But the dark always returns. I'm always alone.

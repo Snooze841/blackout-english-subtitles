@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 220
+PlayResY: 235
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.12,Default,,0,0,0,,Now she mops toilets at the stations.
+Dialogue: 0,0:00:05.12,0:00:08.84,Default,,0,0,0,,She won't take a penny from her mother.
+Dialogue: 0,0:00:08.84,0:00:17.76,Default,,0,0,0,,Later the Widow also had a child with another man.
+Dialogue: 0,0:00:17.76,0:00:22.02,Default,,0,0,0,,A boy who was more obedient than Elisabeth,
+Dialogue: 0,0:00:22.02,0:00:27.66,Default,,0,0,0,,but later became a drunk.
+Dialogue: 0,0:00:27.66,0:00:31.34,Default,,0,0,0,,Oh yes, he did.

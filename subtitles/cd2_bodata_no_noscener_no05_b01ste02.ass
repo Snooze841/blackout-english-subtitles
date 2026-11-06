@@ -1,0 +1,17 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 256
+PlayResY: 256
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,15,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.42,Default,,0,0,0,,It's fatal.
+Dialogue: 0,0:00:02.42,0:00:04.74,Default,,0,0,0,,You must act now.
+Dialogue: 0,0:00:04.74,0:00:06.80,Default,,0,0,0,,That's what the cards say.
+Dialogue: 0,0:00:06.80,0:00:10.92,Default,,0,0,0,,And that's probably good advice in a city like this.

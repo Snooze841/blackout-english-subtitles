@@ -1,0 +1,30 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 272
+PlayResY: 260
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,16,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.66,Default,,0,0,0,,Yeah, I was damn drunk again.
+Dialogue: 0,0:00:08.96,0:00:12.92,Default,,0,0,0,,So what? Not everyone gets to coast along in the easy lane.
+Dialogue: 0,0:00:16.96,0:00:19.12,Default,,0,0,0,,Dad died in the war when I was little. Mom...
+Dialogue: 0,0:00:20.68,0:00:21.86,Default,,0,0,0,,She's one of a kind.
+Dialogue: 0,0:00:23.48,0:00:24.48,Default,,0,0,0,,My sister Li...
+Dialogue: 0,0:00:24.36,0:00:27.60,Default,,0,0,0,,Elisabeth! My sister.
+Dialogue: 0,0:00:29.04,0:00:30.04,Default,,0,0,0,,She's different.
+Dialogue: 0,0:00:31.00,0:00:34.06,Default,,0,0,0,,She has character. She can do anything. Anything!
+Dialogue: 0,0:00:36.12,0:00:37.60,Default,,0,0,0,,Yeah, I've never understood that.
+Dialogue: 0,0:00:39.68,0:00:41.80,Default,,0,0,0,,Why Lisa told Mom to go to hell.
+Dialogue: 0,0:00:43.48,0:00:44.48,Default,,0,0,0,,All on her own.
+Dialogue: 0,0:00:45.56,0:00:46.56,Default,,0,0,0,,Yep.
+Dialogue: 0,0:00:50.08,0:00:51.74,Default,,0,0,0,,Do you like guys?
+Dialogue: 0,0:00:53.74,0:00:56.60,Default,,0,0,0,,'Cause you're cute and all.
+Dialogue: 0,0:00:58.40,0:00:59.68,Default,,0,0,0,,Don't I get a kiss?
+Dialogue: 0,0:00:59.76,0:01:13.98,Default,,0,0,0,,Maybe I need a bit of a shave.
+Dialogue: 0,0:01:13.98,0:01:14.98,Default,,0,0,0,,Yes.

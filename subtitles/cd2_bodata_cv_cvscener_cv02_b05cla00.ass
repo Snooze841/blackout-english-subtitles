@@ -1,0 +1,22 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 280
+PlayResY: 288
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,16,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.92,Default,,0,0,0,,I'm tired, but there's one piece of advice I must give you.
+Dialogue: 0,0:00:08.80,0:00:13.42,Default,,0,0,0,,They tell me to give you some advice.
+Dialogue: 0,0:00:15.42,0:00:20.86,Default,,0,0,0,,I see your fate as a line you needn't necessarily follow.
+Dialogue: 0,0:00:22.52,0:00:27.08,Default,,0,0,0,,But if you do, you'll see how everything falls into place.
+Dialogue: 0,0:00:28.40,0:00:30.72,Default,,0,0,0,,Rather like a well-trodden path.
+Dialogue: 0,0:00:32.50,0:00:39.59,Default,,0,0,0,,Otherwise you must cross a trackless jungle where nothing is easy,
+Dialogue: 0,0:00:39.59,0:00:41.96,Default,,0,0,0,,yet just as beautiful.
+Dialogue: 0,0:00:44.78,0:00:47.76,Default,,0,0,0,,So God arranged it when he gave us free will.
+Dialogue: 0,0:00:50.32,0:00:56.28,Default,,0,0,0,,But the line I see now is tied to an image.

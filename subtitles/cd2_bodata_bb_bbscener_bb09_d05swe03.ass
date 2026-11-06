@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 220
+PlayResY: 235
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.56,Default,,0,0,0,,She was a very gentle girl.
+Dialogue: 0,0:00:06.20,0:00:10.52,Default,,0,0,0,,Sometimes I think she was the only one who cared about you.
+Dialogue: 0,0:00:11.34,0:00:16.23,Default,,0,0,0,,She told me your parents abused you,
+Dialogue: 0,0:00:16.23,0:00:23.44,Default,,0,0,0,,and she had desperate ideas of running away with you.
+Dialogue: 0,0:00:24.34,0:00:28.84,Default,,0,0,0,,She was no more than seventeen, and very idealistic.
+Dialogue: 0,0:00:30.00,0:00:33.54,Default,,0,0,0,,But she was a wonderful girl.
