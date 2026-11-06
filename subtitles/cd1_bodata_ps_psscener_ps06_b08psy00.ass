@@ -1,0 +1,17 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 208
+PlayResY: 212
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,12,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.76,Default,,0,0,0,,I think we got quite far today.
+Dialogue: 0,0:00:03.82,0:00:06.52,Default,,0,0,0,,Try to let go of the memories you have no use for.
+Dialogue: 0,0:00:08.70,0:00:09.70,Default,,0,0,0,,Bye for now.
+Dialogue: 0,0:00:10.94,0:00:12.16,Default,,0,0,0,,You know you're welcome.

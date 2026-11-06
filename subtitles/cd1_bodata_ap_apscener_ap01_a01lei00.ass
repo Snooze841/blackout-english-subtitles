@@ -1,0 +1,20 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 228
+PlayResY: 248
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.96,Default,,0,0,0,,Excuse me, but you shouldn't sit down at this table.
+Dialogue: 0,0:00:06.20,0:00:09.21,Default,,0,0,0,,In the old days they fixed the monkey's
+Dialogue: 0,0:00:09.21,0:00:12.61,Default,,0,0,0,,head in the hole in the middle of the table,
+Dialogue: 0,0:00:12.61,0:00:15.39,Default,,0,0,0,,then they cut open the skull and ate
+Dialogue: 0,0:00:15.39,0:00:18.40,Default,,0,0,0,,the brain before it died and went cold.
+Dialogue: 0,0:00:19.40,0:00:23.37,Default,,0,0,0,,Today there's something else on the menu,
+Dialogue: 0,0:00:23.37,0:00:28.88,Default,,0,0,0,,so if you'd like a table over here, I'll take your order.

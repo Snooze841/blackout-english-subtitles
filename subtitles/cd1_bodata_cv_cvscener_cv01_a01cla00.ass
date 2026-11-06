@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 296
+PlayResY: 288
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.02,Default,,0,0,0,,People come here for many reasons.
+Dialogue: 0,0:00:06.76,0:00:10.74,Default,,0,0,0,,Some visit me just to know if fate will smile on them.
+Dialogue: 0,0:00:12.30,0:00:15.72,Default,,0,0,0,,Others come for far more serious reasons.
+Dialogue: 0,0:00:17.34,0:00:19.64,Default,,0,0,0,,They want a journey into the subconscious.
+Dialogue: 0,0:00:21.08,0:00:23.64,Default,,0,0,0,,Very few leave here without some insight.
+Dialogue: 0,0:00:27.46,0:00:28.80,Default,,0,0,0,,Yes, I thought so.
+Dialogue: 0,0:00:30.00,0:00:37.04,Default,,0,0,0,,You have a great fear that's hard to overcome.
+Dialogue: 0,0:00:38.40,0:00:40.48,Default,,0,0,0,,Perhaps you can come back later.
+Dialogue: 0,0:00:41.96,0:00:43.48,Default,,0,0,0,,My door is always open to you.
+Dialogue: 0,0:00:44.94,0:00:46.22,Default,,0,0,0,,Come back when you're ready.
+Dialogue: 0,0:00:48.00,0:00:50.08,Default,,0,0,0,,May I give you some advice?
+Dialogue: 0,0:00:55.30,0:00:56.58,Default,,0,0,0,,I see a priest.
+Dialogue: 0,0:00:58.02,0:00:59.16,Default,,0,0,0,,Try to meet him.
+Dialogue: 0,0:01:00.00,0:01:01.48,Default,,0,0,0,,He can help you.
+Dialogue: 0,0:01:03.38,0:01:04.92,Default,,0,0,0,,I have nothing more to tell.
+Dialogue: 0,0:01:06.62,0:01:08.48,Default,,0,0,0,,Go with love and an open mind.

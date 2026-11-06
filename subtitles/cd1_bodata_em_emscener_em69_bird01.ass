@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 240
+PlayResY: 180
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,14,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:00.00,0:01:02.00,Default,,0,0,0,,It's a joke.
+Dialogue: 0,0:01:56.80,0:01:59.80,Default,,0,0,0,,Oh.
+Dialogue: 0,0:01:59.80,0:02:02.80,Default,,0,0,0,,Hand it over!
+Dialogue: 0,0:02:02.80,0:02:04.80,Default,,0,0,0,,Fat man!
+Dialogue: 0,0:02:04.80,0:02:06.80,Default,,0,0,0,,Big mistake!

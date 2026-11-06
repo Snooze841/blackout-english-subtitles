@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 232
+PlayResY: 296
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.18,Default,,0,0,0,,I'm glad.
+Dialogue: 0,0:00:01.18,0:00:09.14,Default,,0,0,0,,I've thought hard about a good answer since our last meeting.
+Dialogue: 0,0:00:09.14,0:00:16.59,Default,,0,0,0,,You asked if I believed in fate, and quoted Karen Blixen,
+Dialogue: 0,0:00:16.59,0:00:20.90,Default,,0,0,0,,who said the most important thing
+Dialogue: 0,0:00:20.90,0:00:26.12,Default,,0,0,0,,for a person is to fulfil their destiny.

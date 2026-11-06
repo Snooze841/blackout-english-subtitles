@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 260
+PlayResY: 290
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,15,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.49,Default,,0,0,0,,That in the end we stand all alone,
+Dialogue: 0,0:00:03.49,0:00:10.16,Default,,0,0,0,,knowing our turn will come one day. We get no help on that journey;
+Dialogue: 0,0:00:10.16,0:00:14.64,Default,,0,0,0,,we must make it alone with the tools we have.
+Dialogue: 0,0:00:15.54,0:00:21.73,Default,,0,0,0,,But the best way to prepare is to understand why we ended up here,
+Dialogue: 0,0:00:21.73,0:00:25.38,Default,,0,0,0,,why we of all people were given a life.
+Dialogue: 0,0:00:27.02,0:00:34.00,Default,,0,0,0,,Well, my sermon is over now. I won't keep you any longer.

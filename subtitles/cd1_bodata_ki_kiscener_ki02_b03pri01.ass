@@ -1,0 +1,25 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 220
+PlayResY: 264
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.84,0:00:02.76,Default,,0,0,0,,Then I think you should.
+Dialogue: 0,0:00:03.46,0:00:05.26,Default,,0,0,0,,I have the address for you here.
+Dialogue: 0,0:00:07.34,0:00:12.02,Default,,0,0,0,,I think it's good to bring things into the light.
+Dialogue: 0,0:00:13.52,0:00:15.78,Default,,0,0,0,,Just look at this town and the people in it.
+Dialogue: 0,0:00:16.66,0:00:19.46,Default,,0,0,0,,So much time spent watching films about death.
+Dialogue: 0,0:00:20.74,0:00:22.26,Default,,0,0,0,,And they joke about death.
+Dialogue: 0,0:00:22.98,0:00:24.28,Default,,0,0,0,,The worse, the better.
+Dialogue: 0,0:00:25.22,0:00:27.46,Default,,0,0,0,,Death has become entertainment here.
+Dialogue: 0,0:00:28.50,0:00:30.92,Default,,0,0,0,,Do you know what that's a symptom of?
+Dialogue: 0,0:00:32.18,0:00:33.70,Default,,0,0,0,,It's a symptom of fear.
+Dialogue: 0,0:00:34.58,0:00:37.50,Default,,0,0,0,,For the violent thing about death isn't its face.
+Dialogue: 0,0:00:38.22,0:00:41.58,Default,,0,0,0,,The violent thing about death is that something ends.

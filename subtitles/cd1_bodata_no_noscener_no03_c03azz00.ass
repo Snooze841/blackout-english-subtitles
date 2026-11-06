@@ -1,0 +1,30 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 316
+PlayResY: 280
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:04.00,Default,,0,0,0,,Sex, is it? Or shall we talk?
+Dialogue: 0,0:00:09.00,0:00:12.00,Default,,0,0,0,,Okay, now you'll get a poem.
+Dialogue: 0,0:00:13.00,0:00:16.00,Default,,0,0,0,,You put your arms around my shoulders.
+Dialogue: 0,0:00:16.00,0:00:18.00,Default,,0,0,0,,Wrapped your thighs around my waist.
+Dialogue: 0,0:00:18.00,0:00:22.00,Default,,0,0,0,,Pressed your lips to the waiting hours.
+Dialogue: 0,0:00:22.00,0:00:26.00,Default,,0,0,0,,And thoughts fill with dreams and longing.
+Dialogue: 0,0:00:26.00,0:00:32.00,Default,,0,0,0,,It's your tongue dancing somewhere in there.
+Dialogue: 0,0:00:36.00,0:00:40.00,Default,,0,0,0,,Heard anything from Kate lately? No.
+Dialogue: 0,0:00:40.00,0:00:42.00,Default,,0,0,0,,She asked about you yesterday.
+Dialogue: 0,0:00:42.00,0:00:45.00,Default,,0,0,0,,She said it's been a long time.
+Dialogue: 0,0:00:45.00,0:00:48.00,Default,,0,0,0,,You should go over to her.
+Dialogue: 0,0:00:49.00,0:00:53.00,Default,,0,0,0,,Of course, Kate always keeps up appearances.
+Dialogue: 0,0:00:53.00,0:00:57.00,Default,,0,0,0,,But I know she'd be glad if you came over.
+Dialogue: 0,0:00:57.00,0:01:01.00,Default,,0,0,0,,And I know she's worried about how you're doing.
+Dialogue: 0,0:01:01.00,0:01:03.00,Default,,0,0,0,,Go over to her now.
+Dialogue: 0,0:01:03.00,0:01:04.00,Default,,0,0,0,,She needs it.
+Dialogue: 0,0:01:04.00,0:01:06.00,Default,,0,0,0,,And so do you.

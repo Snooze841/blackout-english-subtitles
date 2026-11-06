@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 236
+PlayResY: 236
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.30,Default,,0,0,0,,You can drop by later.
+Dialogue: 0,0:00:02.30,0:00:03.62,Default,,0,0,0,,Bob will be back by then.
+Dialogue: 0,0:00:03.62,0:00:08.26,Default,,0,0,0,,If you need anything other than a tattoo,
+Dialogue: 0,0:00:08.26,0:00:10.96,Default,,0,0,0,,come see us up at the New Orleans.
+Dialogue: 0,0:00:10.96,0:00:15.04,Default,,0,0,0,,But I have to go now.

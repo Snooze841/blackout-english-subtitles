@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 216
+PlayResY: 212
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,12,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.52,Default,,0,0,0,,Sullivan.
+Dialogue: 0,0:00:04.62,0:00:05.62,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:00:08.28,0:00:10.18,Default,,0,0,0,,He was our last champion.
+Dialogue: 0,0:00:11.18,0:00:13.10,Default,,0,0,0,,And a real man of the people.
+Dialogue: 0,0:00:15.60,0:00:19.66,Default,,0,0,0,,When he walked into a bar, he'd shout:
+Dialogue: 0,0:00:20.66,0:00:22.74,Default,,0,0,0,,'Anyone want a fight? I'm ready!'
+Dialogue: 0,0:00:25.74,0:00:27.28,Default,,0,0,0,,Nobody ever did.
+Dialogue: 0,0:00:27.28,0:00:29.46,Default,,0,0,0,,And then Sullivan bought the beer.
+Dialogue: 0,0:00:30.00,0:00:33.94,Default,,0,0,0,,Ha, he was a real gentleman.
+Dialogue: 0,0:00:36.46,0:00:37.46,Default,,0,0,0,,Cheers.
+Dialogue: 0,0:00:39.42,0:00:44.30,Default,,0,0,0,,To old Sullivan.

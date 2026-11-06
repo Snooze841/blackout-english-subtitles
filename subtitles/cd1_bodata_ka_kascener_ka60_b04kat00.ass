@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 184
+PlayResY: 216
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,11,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.46,Default,,0,0,0,,So nice that you could come.
+Dialogue: 0,0:00:03.58,0:00:05.62,Default,,0,0,0,,Not sure how much you remember now.
+Dialogue: 0,0:00:06.02,0:00:07.54,Default,,0,0,0,,But at times it's been hard.
+Dialogue: 0,0:00:08.40,0:00:09.58,Default,,0,0,0,,But it's nice you came.
+Dialogue: 0,0:00:11.72,0:00:14.28,Default,,0,0,0,,If I can help in any way, you're always welcome.
+Dialogue: 0,0:00:14.78,0:00:15.78,Default,,0,0,0,,You know that.
+Dialogue: 0,0:00:16.24,0:00:17.76,Default,,0,0,0,,I hope you know that too.
+Dialogue: 0,0:00:19.20,0:00:20.84,Default,,0,0,0,,Whoever you think you are now.
+Dialogue: 0,0:00:26.30,0:00:28.16,Default,,0,0,0,,You seem to be having a tough time.
+Dialogue: 0,0:00:30.00,0:00:33.18,Default,,0,0,0,,Go to the library more often instead of the bar.
+Dialogue: 0,0:00:34.04,0:00:35.96,Default,,0,0,0,,It usually does you good.
+Dialogue: 0,0:00:36.36,0:00:37.36,Default,,0,0,0,,Read some poems.
+Dialogue: 0,0:00:39.48,0:00:40.88,Default,,0,0,0,,Don't look like that.
+Dialogue: 0,0:00:47.56,0:00:48.72,Default,,0,0,0,,No, now I have to go.
+Dialogue: 0,0:00:49.30,0:00:50.30,Default,,0,0,0,,You go too.
+Dialogue: 0,0:00:51.42,0:00:52.54,Default,,0,0,0,,But promise you'll come soon.

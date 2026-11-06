@@ -1,0 +1,21 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 208
+PlayResY: 212
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,12,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.00,Default,,0,0,0,,Welcome back. You've done well.
+Dialogue: 0,0:00:07.00,0:00:12.00,Default,,0,0,0,,As I said, there are signs your mind is split.
+Dialogue: 0,0:00:12.00,0:00:17.00,Default,,0,0,0,,You've reacted very differently during your visits.
+Dialogue: 0,0:00:17.00,0:00:20.28,Default,,0,0,0,,Now I'd like to ask if you're curious
+Dialogue: 0,0:00:20.28,0:00:24.00,Default,,0,0,0,,about the other sides of your personality.
+Dialogue: 0,0:00:24.00,0:00:29.00,Default,,0,0,0,,Do you want to know who dominates your mind and actions right now?
+Dialogue: 0,0:00:30.00,0:00:38.00,Default,,0,0,0,,That's okay. You can come back when you're ready.
+Dialogue: 0,0:00:38.00,0:00:40.00,Default,,0,0,0,,Bye for now.

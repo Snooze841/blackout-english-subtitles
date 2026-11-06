@@ -1,0 +1,22 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 216
+PlayResY: 280
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,12,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.72,Default,,0,0,0,,Well, she told me she was eighteen, anyway.
+Dialogue: 0,0:00:06.72,0:00:09.22,Default,,0,0,0,,So it's not my problem.
+Dialogue: 0,0:00:09.22,0:00:11.44,Default,,0,0,0,,Yeah, yeah, yeah, yeah.
+Dialogue: 0,0:00:11.44,0:00:13.90,Default,,0,0,0,,Then I'll report it to the Widow.
+Dialogue: 0,0:00:13.90,0:00:18.26,Default,,0,0,0,,Your church might catch fire for some reason.
+Dialogue: 0,0:00:18.26,0:00:23.38,Default,,0,0,0,,Better watch out, or you'll lose your other eye too.
+Dialogue: 0,0:00:23.38,0:00:25.18,Default,,0,0,0,,Okay.
+Dialogue: 0,0:00:25.18,0:00:32.68,Default,,0,0,0,,I was going to give her a nipple ring instead.
+Dialogue: 0,0:00:32.68,0:00:39.68,Default,,0,0,0,,I told you, I told you.

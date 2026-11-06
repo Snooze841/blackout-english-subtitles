@@ -1,0 +1,31 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 180
+PlayResY: 216
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,11,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.04,Default,,0,0,0,,So nice that you could come.
+Dialogue: 0,0:00:03.04,0:00:06.24,Default,,0,0,0,,I'm not quite sure how much you remember now.
+Dialogue: 0,0:00:06.24,0:00:08.18,Default,,0,0,0,,But at times it's been hard.
+Dialogue: 0,0:00:08.18,0:00:10.28,Default,,0,0,0,,But it's nice that you came.
+Dialogue: 0,0:00:10.28,0:00:14.86,Default,,0,0,0,,If I can help you in any way, you're always welcome.
+Dialogue: 0,0:00:14.86,0:00:15.86,Default,,0,0,0,,You know that.
+Dialogue: 0,0:00:15.78,0:00:18.32,Default,,0,0,0,,I hope you know that too.
+Dialogue: 0,0:00:18.32,0:00:21.54,Default,,0,0,0,,Whoever you think you are right now.
+Dialogue: 0,0:00:26.82,0:00:28.50,Default,,0,0,0,,You look so well these days.
+Dialogue: 0,0:00:28.50,0:00:30.90,Default,,0,0,0,,You'll get everything sorted out.
+Dialogue: 0,0:00:30.90,0:00:32.88,Default,,0,0,0,,When you look like that,
+Dialogue: 0,0:00:32.88,0:00:36.76,Default,,0,0,0,,I want to drop everything and just go with you.
+Dialogue: 0,0:00:36.76,0:00:40.98,Default,,0,0,0,,If only you could hold on to who you are right now...
+Dialogue: 0,0:00:40.98,0:00:45.36,Default,,0,0,0,,One fine day, when all this is behind you,
+Dialogue: 0,0:00:45.36,0:00:47.20,Default,,0,0,0,,we'll go away.
+Dialogue: 0,0:00:47.20,0:00:54.56,Default,,0,0,0,,No, now I have to go.
+Dialogue: 0,0:00:54.56,0:00:55.86,Default,,0,0,0,,You'll have to go too.
+Dialogue: 0,0:00:55.86,0:00:58.40,Default,,0,0,0,,But promise you'll come soon.

@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 248
+PlayResY: 248
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,14,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.88,Default,,0,0,0,,Grave Digger. A drink I came across in the war.
+Dialogue: 0,0:00:04.58,0:00:08.95,Default,,0,0,0,,We sat in the trenches at the front and hardly ever saw the enemy.
+Dialogue: 0,0:00:08.95,0:00:10.34,Default,,0,0,0,,They were just there.
+Dialogue: 0,0:00:10.78,0:00:15.78,Default,,0,0,0,,And people died like flies. Oh la la, quelle horreur.
+Dialogue: 0,0:00:16.28,0:00:19.70,Default,,0,0,0,,The worst job was burying all those bodies.
+Dialogue: 0,0:00:19.70,0:00:25.96,Default,,0,0,0,,You recognized the faces. It was vile, and they stank as they rotted.
+Dialogue: 0,0:00:26.52,0:00:29.72,Default,,0,0,0,,The officers knew how it was, so they came up with a drink.
+Dialogue: 0,0:00:30.06,0:00:33.49,Default,,0,0,0,,They usually drank dry Martini in the mess,
+Dialogue: 0,0:00:33.49,0:00:38.04,Default,,0,0,0,,but we had gin and vermouth with schnapps for aftertaste.
+Dialogue: 0,0:00:38.48,0:00:40.86,Default,,0,0,0,,And a little Campari for colour.
+Dialogue: 0,0:00:42.14,0:00:44.52,Default,,0,0,0,,We called that drink the Grave Digger.
+Dialogue: 0,0:00:45.08,0:00:48.92,Default,,0,0,0,,There's something symbolic about that aftertaste, you know.
+Dialogue: 0,0:00:49.36,0:00:52.44,Default,,0,0,0,,Seeing as we were burying people we'd known, eh?
+Dialogue: 0,0:00:53.30,0:00:58.16,Default,,0,0,0,,Now I serve it in the bar with a little Sprite and a slice of orange.
+Dialogue: 0,0:00:59.70,0:01:01.08,Default,,0,0,0,,That's reality, hein?

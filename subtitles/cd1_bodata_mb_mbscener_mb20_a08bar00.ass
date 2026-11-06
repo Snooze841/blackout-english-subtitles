@@ -1,0 +1,27 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 248
+PlayResY: 248
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,14,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.50,Default,,0,0,0,,Rimalo Pushover. A recipe I stole from a mate in the navy.
+Dialogue: 0,0:00:05.78,0:00:08.83,Default,,0,0,0,,He taught me that vodka and schnapps
+Dialogue: 0,0:00:08.83,0:00:12.64,Default,,0,0,0,,mixed with lemon soda foams almost like beer.
+Dialogue: 0,0:00:13.74,0:00:16.24,Default,,0,0,0,,He called it the Bingalo Pushover.
+Dialogue: 0,0:00:17.08,0:00:21.45,Default,,0,0,0,,Of course I took to it, but I don't like vodka,
+Dialogue: 0,0:00:21.45,0:00:24.24,Default,,0,0,0,,so I tried a hint of dark rum.
+Dialogue: 0,0:00:24.24,0:00:26.13,Default,,0,0,0,,And then it's perfect.
+Dialogue: 0,0:00:26.13,0:00:31.21,Default,,0,0,0,,So without shame I changed the name from Bingalo to Rimalo,
+Dialogue: 0,0:00:31.21,0:00:33.10,Default,,0,0,0,,and here's the result.
+Dialogue: 0,0:00:33.76,0:00:39.00,Default,,0,0,0,,The first time, mon Dieu, forgive me, I got completely drunk.
+Dialogue: 0,0:00:39.50,0:00:43.08,Default,,0,0,0,,I crawled home to the harbour on all fours,
+Dialogue: 0,0:00:43.08,0:00:46.48,Default,,0,0,0,,tried my key in every door in the street,
+Dialogue: 0,0:00:46.48,0:00:49.56,Default,,0,0,0,,then gave up and slept on a stairway.
+Dialogue: 0,0:00:49.56,0:00:52.66,Default,,0,0,0,,This drink is magnificent.

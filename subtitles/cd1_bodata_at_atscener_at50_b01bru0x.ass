@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 236
+PlayResY: 256
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.58,Default,,0,0,0,,Well, it's unbelievable.
+Dialogue: 0,0:00:04.16,0:00:06.62,Default,,0,0,0,,Yesterday I met an art-talk type.
+Dialogue: 0,0:00:07.28,0:00:12.60,Default,,0,0,0,,He hadn't been painting long, but he kept throwing that word around.
+Dialogue: 0,0:00:13.06,0:00:15.96,Default,,0,0,0,,As if he knew exactly what art was.
+Dialogue: 0,0:00:16.98,0:00:18.38,Default,,0,0,0,,Nobody knows what art is.
+Dialogue: 0,0:00:18.94,0:00:20.98,Default,,0,0,0,,Know-it-alls like that scare me.
+Dialogue: 0,0:00:21.36,0:00:22.58,Default,,0,0,0,,I was totally drunk, but...
+Dialogue: 0,0:00:22.58,0:00:24.44,Default,,0,0,0,,Ha! I got him to argue with me.
+Dialogue: 0,0:00:24.50,0:00:28.14,Default,,0,0,0,,I just always took the other side, so it couldn't go too wrong.
+Dialogue: 0,0:00:28.14,0:00:32.88,Default,,0,0,0,,Yes, it's unbelievable how many words you can waste on that stuff.
+Dialogue: 0,0:00:33.00,0:00:34.88,Default,,0,0,0,,It's... it's so simple.
+Dialogue: 0,0:00:35.60,0:00:38.73,Default,,0,0,0,,Art is when you do or see something that
+Dialogue: 0,0:00:38.73,0:00:42.34,Default,,0,0,0,,makes the clouds burst open in your inner sky.
+Dialogue: 0,0:00:43.40,0:00:46.00,Default,,0,0,0,,But is what I'm doing now art?
+Dialogue: 0,0:00:46.52,0:00:50.22,Default,,0,0,0,,There's something radically wrong that I can't put my finger on.
+Dialogue: 0,0:00:51.76,0:00:53.72,Default,,0,0,0,,Maybe I just talk too much.

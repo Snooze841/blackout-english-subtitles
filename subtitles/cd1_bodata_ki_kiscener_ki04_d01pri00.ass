@@ -1,0 +1,27 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 236
+PlayResY: 300
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.18,Default,,0,0,0,,I see you also appreciate relics. That's good.
+Dialogue: 0,0:00:07.90,0:00:11.26,Default,,0,0,0,,I once nearly lost my life for a Madonna.
+Dialogue: 0,0:00:12.30,0:00:16.64,Default,,0,0,0,,A church was on fire. I tried to save an icon from the flames.
+Dialogue: 0,0:00:17.36,0:00:22.18,Default,,0,0,0,,Part of the roof crashed down on me, but the firemen rescued me
+Dialogue: 0,0:00:22.18,0:00:25.00,Default,,0,0,0,,with the half-burnt Madonna painting in my arms.
+Dialogue: 0,0:00:26.00,0:00:28.47,Default,,0,0,0,,When I saw them come through the smoke,
+Dialogue: 0,0:00:28.47,0:00:30.50,Default,,0,0,0,,I was overwhelmed by a certainty
+Dialogue: 0,0:00:30.50,0:00:32.92,Default,,0,0,0,,that it was the Holy Mary's thanks.
+Dialogue: 0,0:00:33.94,0:00:37.08,Default,,0,0,0,,But I didn't escape entirely unharmed.
+Dialogue: 0,0:00:37.76,0:00:39.46,Default,,0,0,0,,That's how I lost an eye.
+Dialogue: 0,0:00:40.64,0:00:44.10,Default,,0,0,0,,The worldly eye was burned away.
+Dialogue: 0,0:00:45.14,0:00:48.10,Default,,0,0,0,,Now I only have my miracle eye left.
+Dialogue: 0,0:00:49.16,0:00:51.24,Default,,0,0,0,,I won't keep you any longer.
+Dialogue: 0,0:00:53.24,0:00:54.24,Default,,0,0,0,,Go in peace.

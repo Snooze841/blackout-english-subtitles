@@ -1,0 +1,21 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 248
+PlayResY: 248
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,14,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.83,Default,,0,0,0,,Monsoon: dark rum with orange juice,
+Dialogue: 0,0:00:03.83,0:00:08.20,Default,,0,0,0,,ginger ale and a splash of Martini Rosso.
+Dialogue: 0,0:00:08.66,0:00:09.66,Default,,0,0,0,,Voilà!
+Dialogue: 0,0:00:09.92,0:00:12.56,Default,,0,0,0,,Then a slice of kiwi.
+Dialogue: 0,0:00:13.38,0:00:14.38,Default,,0,0,0,,Mon Dieu, it's pricey.
+Dialogue: 0,0:00:14.64,0:00:19.81,Default,,0,0,0,,It's been hell getting hold of kiwi fruit, but right now I have a few,
+Dialogue: 0,0:00:19.81,0:00:21.58,Default,,0,0,0,,so if you want to try...
+Dialogue: 0,0:00:22.04,0:00:23.04,Default,,0,0,0,,Voilà!

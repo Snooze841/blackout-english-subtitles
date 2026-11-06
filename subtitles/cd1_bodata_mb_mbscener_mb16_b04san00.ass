@@ -1,0 +1,20 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 248
+PlayResY: 288
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,14,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.54,Default,,0,0,0,,Sorry, that wasn't very nice of me.
+Dialogue: 0,0:00:08.36,0:00:09.52,Default,,0,0,0,,Into fortune-telling?
+Dialogue: 0,0:00:10.30,0:00:12.64,Default,,0,0,0,,Because I know someone who's really good.
+Dialogue: 0,0:00:13.16,0:00:15.86,Default,,0,0,0,,Her name's Claire. Yellow southern-style house,
+Dialogue: 0,0:00:15.86,0:00:17.24,Default,,0,0,0,,right of the big square.
+Dialogue: 0,0:00:18.24,0:00:19.24,Default,,0,0,0,,Try her.
+Dialogue: 0,0:00:19.74,0:00:20.74,Default,,0,0,0,,She's amazing.

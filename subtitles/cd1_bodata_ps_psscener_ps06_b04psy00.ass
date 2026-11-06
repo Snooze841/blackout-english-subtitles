@@ -1,0 +1,31 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 208
+PlayResY: 212
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,12,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.48,Default,,0,0,0,,But it's all right.
+Dialogue: 0,0:00:04.62,0:00:05.82,Default,,0,0,0,,I can tell you that you do.
+Dialogue: 0,0:00:08.12,0:00:09.72,Default,,0,0,0,,You have memory loss.
+Dialogue: 0,0:00:10.24,0:00:11.42,Default,,0,0,0,,Lose your senses.
+Dialogue: 0,0:00:12.44,0:00:15.34,Default,,0,0,0,,Or more precisely, you have a split personality.
+Dialogue: 0,0:00:16.18,0:00:17.60,Default,,0,0,0,,Who don't know each other.
+Dialogue: 0,0:00:20.50,0:00:22.46,Default,,0,0,0,,It's vital you realize that.
+Dialogue: 0,0:00:25.06,0:00:26.60,Default,,0,0,0,,It's nothing to be afraid of.
+Dialogue: 0,0:00:28.00,0:00:29.84,Default,,0,0,0,,We're unravelling this.
+Dialogue: 0,0:00:30.88,0:00:32.00,Default,,0,0,0,,I think it'll get better.
+Dialogue: 0,0:00:34.48,0:00:37.60,Default,,0,0,0,,Anyway, we'll go at your own pace.
+Dialogue: 0,0:00:39.74,0:00:43.74,Default,,0,0,0,,With hypnotherapy we've dived deep into your subconscious.
+Dialogue: 0,0:00:45.32,0:00:48.22,Default,,0,0,0,,It's slowly opening up your memories, your problems.
+Dialogue: 0,0:00:49.50,0:00:50.50,Default,,0,0,0,,The blackouts are fewer.
+Dialogue: 0,0:00:51.78,0:00:55.48,Default,,0,0,0,,Right now I think we've reached a...
+Dialogue: 0,0:00:55.48,0:00:59.06,Default,,0,0,0,,problematic but important point.
+Dialogue: 0,0:01:00.00,0:01:04.34,Default,,0,0,0,,During your visits you've used different names.
+Dialogue: 0,0:01:05.96,0:01:07.02,Default,,0,0,0,,What's your name right now?

@@ -1,0 +1,22 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 240
+PlayResY: 252
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,14,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.30,Default,,0,0,0,,Good day, Gabriel. Remember me? I was your priest.
+Dialogue: 0,0:00:10.30,0:00:11.46,Default,,0,0,0,,That's a pity.
+Dialogue: 0,0:00:13.32,0:00:16.87,Default,,0,0,0,,I think you've forgotten and repressed many things over the years,
+Dialogue: 0,0:00:16.87,0:00:17.30,Default,,0,0,0,,Gabriel.
+Dialogue: 0,0:00:18.94,0:00:20.42,Default,,0,0,0,,You're not to blame for that.
+Dialogue: 0,0:00:21.98,0:00:24.52,Default,,0,0,0,,Shall I tell you about that time?
+Dialogue: 0,0:00:30.00,0:00:35.90,Default,,0,0,0,,Very well, then I'll let it rest. Faith doesn't solve every problem.
+Dialogue: 0,0:00:36.78,0:00:38.28,Default,,0,0,0,,But it's a good compass.
+Dialogue: 0,0:00:39.64,0:00:41.20,Default,,0,0,0,,Farewell, Gabriel.

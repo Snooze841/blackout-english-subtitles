@@ -1,0 +1,21 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 264
+PlayResY: 264
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,15,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,4,4,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.86,Default,,0,0,0,,Good.
+Dialogue: 0,0:00:01.86,0:00:04.72,Default,,0,0,0,,When I count to three
+Dialogue: 0,0:00:04.72,0:00:06.90,Default,,0,0,0,,you'll relax completely.
+Dialogue: 0,0:00:06.90,0:00:09.04,Default,,0,0,0,,And when I snap my fingers,
+Dialogue: 0,0:00:09.04,0:00:13.08,Default,,0,0,0,,you'll sense the dominant side of your personality.
+Dialogue: 0,0:00:13.08,0:00:15.84,Default,,0,0,0,,One.
+Dialogue: 0,0:00:15.84,0:00:18.14,Default,,0,0,0,,Two.
+Dialogue: 0,0:00:18.14,0:00:19.88,Default,,0,0,0,,Three.
